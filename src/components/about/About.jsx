@@ -22,7 +22,8 @@ const About = () => {
         As a front-end developer student, I've emphasized the importance of scalable 
         and well-documented code. I enjoy working collaboratively but can also run with 
         projects on my own. I am comfortable working with JavaScript, React, HTML/CSS 
-        to deliver exceptional customer experience. 
+        to deliver exceptional customer experience. Please visit my GitHub to see some of
+        works!!  
 
         </p>
       </div>

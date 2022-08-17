@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.io/sudhamadhuripoojari/Portfolio",
+  "homepage": "https://sudhamadhuripoojari.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
