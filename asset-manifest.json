@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a1934078.css",
+    "main.js": "/portfolio/static/js/main.6621b94c.js",
+    "static/media/2.png": "/portfolio/static/media/2.d68584a9ee6aa325ec85.png",
+    "static/media/FP.png": "/portfolio/static/media/FP.8664a5c9a657da6d5906.png",
+    "static/media/Quiz.jpg": "/portfolio/static/media/Quiz.2d663a9d16a7025c13ff.jpg",
+    "static/media/PhaserGame.jpg": "/portfolio/static/media/PhaserGame.a1006cef3e30dad68f7c.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.89369c98fcc2ac27f2d1.jpg",
+    "static/media/HyperEcommerce.jpg": "/portfolio/static/media/HyperEcommerce.c675a21eefa4e2eec745.jpg",
+    "static/media/moon.png": "/portfolio/static/media/moon.0dc2737e371465d70703.png",
+    "static/media/Hyper-SR-Player.png": "/portfolio/static/media/Hyper-SR-Player.429df77b693811e6c508.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.15967028796e37786b3a.png",
+    "static/media/email.png": "/portfolio/static/media/email.3c734ec1361a8a691303.png",
+    "static/media/Pic.jpg": "/portfolio/static/media/Pic.e9a223f2bf433b03028b.jpg",
+    "static/media/phone.png": "/portfolio/static/media/phone.5466c188339c72491bbe.png",
+    "index.html": "/portfolio/index.html",
+    "main.a1934078.css.map": "/portfolio/static/css/main.a1934078.css.map",
+    "main.6621b94c.js.map": "/portfolio/static/js/main.6621b94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1934078.css",
+    "static/js/main.6621b94c.js"
+  ]
+}
