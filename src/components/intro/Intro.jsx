@@ -21,8 +21,8 @@ const Intro = () => {
 
                 </div> 
             </div>
-            <p className='i-desc'> I design and develop website for desktop and mobile screens,
-            I create stylish, modern websites in JavaScript and React and design in Figma.</p>
+            <p className='i-desc'> I design and develop websites for desktop and mobile screens,
+            I create stylish, modern websites in JavaScript, React and design in Figma.</p>
         </div>
 
         {/* SVG Scroll Image */}
