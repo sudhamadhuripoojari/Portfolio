@@ -2,6 +2,7 @@ import './contact.css';
 import Phone from '../../img/phone.png';
 import Email from '../../img/email.png';
 import Address from '../../img/address.png';
+import Linkedin from '../../img/Linkedin.png';
 import { useRef, useState, useContext } from 'react';
 import emailjs from '@emailjs/browser';
 import { ThemeContext } from '../../context';
@@ -46,6 +47,9 @@ const handleSubmit= (e)=>{
                   </div>
                   <div className="c-info-item">
                       <img src= {Email} alt="" className='c-icon'/> sudha.poojari@hyperisland.se
+                  </div>
+                  <div className="c-info-item">
+                      <img src= {Linkedin} alt="" className='c-icon'/> <a target="_blank" href="https://www.linkedin.com/in/sudha-madhuri-0ab4b721/"> Sudha Madhuri </a> 
                   </div>
                   <div className="c-info-item">
                       <img src= {Address} alt="" className='c-icon'/> Solna, Stockholm

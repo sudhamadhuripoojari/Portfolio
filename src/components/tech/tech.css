@@ -1,0 +1,36 @@
+.tech{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:    #f5dde5  ;
+  }
+  .tech-texts {
+    width: 65%;
+  }
+
+  .tech-title {
+    font-size: 50px;
+    font-weight: 600;
+  }
+  
+  .tech-desc {
+    margin: 20px 0px;
+    /* font-size: 18px; */
+  }
+  
+
+  @media screen and (max-width: 480px) {
+    .tech {
+      padding: 10px;
+    }
+  
+    .tech-texts {
+      width: 100%;
+    }
+  
+    .tech-desc {
+      display: none;
+    }
+  }

@@ -23,11 +23,11 @@ const About = () => {
         As a front-end developer student, I've emphasized the importance of scalable 
         and well-documented code. I enjoy working collaboratively but can also run with 
         projects on my own. I am comfortable working with JavaScript, React, HTML/CSS and Figma
-        to deliver exceptional customer experience. Please visit my <a target="_blank" href="https://github.com/sudhamadhuripoojari"> GitHub </a> to see some of
+        to deliver exceptional customer experience. Please visit my <b><a target="_blank" href="https://github.com/sudhamadhuripoojari"> GitHub </a></b> to see some of my
         works!!  
         </p>
       </div>
-    </div>
+    </div>   
   )
 }
 
