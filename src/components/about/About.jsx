@@ -17,14 +17,17 @@ const About = () => {
          Hey!! This is Sudha
         </p>
         <p className="a-desc">
-        I am a curious Front-end developer student from HyperIsland looking to leverage 
-        my knowledge and experience building responsive and scalable web apps to solve interesting problems 
-        that delight end-users. 
-        As a front-end developer student, I've emphasized the importance of scalable 
-        and well-documented code. I enjoy working collaboratively but can also run with 
-        projects on my own. I am comfortable working with JavaScript, React, HTML/CSS and Figma
-        to deliver exceptional customer experience. Please visit my <b><a target="_blank" href="https://github.com/sudhamadhuripoojari"> GitHub </a></b> to see some of my
-        works!!  
+        I am an ambitious Java Full-stack developer with 2years of experience, 
+        eager to apply my knowledge and expertise in building responsive and scalable web applications to tackle intriguing challenges that delight end-users. 
+
+        Throughout my journey as a full stack developer, I have prioritized the significance of writing maintainable and well-documented code. Collaboration is essential to me, and I thrive in a team environment, but I am equally capable of taking ownership of projects independently. <br />
+        <br />
+        My skill set includes proficiency in Java, Spring framework, JavaScript, Typescript, React, Next js, Storybook, Figma, PostgreSQL, Mongodb, Azure.
+        <br />
+        You can explore some of my past projects on my <b><a target="_blank" href="https://github.com/sudhamadhuripoojari"> GitHub </a></b> repository.<br />
+        <br />
+
+        I am enthusiastic about continuous learning and staying up-to-date with the latest technologies and industry trends to deliver innovative solutions. Let's collaborate and create meaningful applications that make a positive impact.
         </p>
       </div>
     </div>   

@@ -9,8 +9,8 @@ function Tech() {
       <div className="tech-texts">
         <h1 className="tech-title">Tech and Skills</h1>
         <p className="tech-desc">
-        HTML, CSS, Flexbox, Responsive Design, Figma, JavaScript, React, React Hooks, Styled Components, Node.js,
-      Mongo DB, Mongoose, Express.js, Pair programming, Git.
+      Java, Springboot, Typescript, JavaScript, Next js, React Storybook, React, React Hooks, Styled Components, Node.js,
+        Mongo DB, Express.js, PostgreSQL, HTML, CSS, Flexbox, Responsive Design, Figma, Azure, Pair programming, Git.
         </p>
       </div>
     </div>

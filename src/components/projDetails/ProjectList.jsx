@@ -11,7 +11,7 @@ const ProjectList = () => {
         <h1 className="pl-title">Inspired & Created </h1>
         <p className="pl-desc">
           This is my portfolio displaying my works.
-          Beautiful Webpages, stunning Designs using HTML, CSS, Javascript, MERN & fun game project using Phaser.
+          Beautiful Webpages, stunning Designs using HTML, CSS, Javascript, React, MERN & fun game project using Phaser.
         </p>
       </div>
       <div className="pl-list">

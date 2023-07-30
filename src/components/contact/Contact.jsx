@@ -46,7 +46,7 @@ const handleSubmit= (e)=>{
                       <img src= {Phone} alt="" className='c-icon'/> +46-734839745
                   </div>
                   <div className="c-info-item">
-                      <img src= {Email} alt="" className='c-icon'/> sudha.poojari@hyperisland.se
+                      <img src= {Email} alt="" className='c-icon'/> poojari.sudha@gmail.com
                   </div>
                   <div className="c-info-item">
                       <img src= {Linkedin} alt="" className='c-icon'/> <a target="_blank" href="https://www.linkedin.com/in/sudha-madhuri-0ab4b721/"> Sudha Madhuri </a> 

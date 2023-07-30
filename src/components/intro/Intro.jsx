@@ -15,14 +15,12 @@ const Intro = () => {
                         Front-end Developer
                     </div>
                     <div className ="i-title-item">
-                        Web Developer
+                        Fullstack Java Developer
                     </div>
-                    
-
                 </div> 
             </div>
-            <p className='i-desc'> I design and develop websites for desktop and mobile screens,
-            I create stylish, modern websites in JavaScript, React and design in Figma.</p>
+            <p className='i-desc'> I design and develop robust web applications for desktop and mobile screens.
+            Proficient in utilizing a wide range of technologies and frameworks to deliver efficient and scalable solutions. </p>
         </div>
 
         {/* SVG Scroll Image */}
@@ -85,15 +83,10 @@ const Intro = () => {
         </svg> */}
 
         </div>
-
         <div className='i-right'> 
             {/* <div className="i-bg"></div> */}
             <img src={Me} alt="" className="i-img" />
-        </div>
-
-
-    
-      
+        </div>  
     </div>
   )
 }
