@@ -3,7 +3,6 @@ import './projectList.css'
 import Project from '../project/Project';
 import { projects } from '../../data';
 
-
 const ProjectList = () => {
   return (
 <div className="pl">
