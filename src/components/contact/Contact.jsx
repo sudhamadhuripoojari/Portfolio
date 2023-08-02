@@ -49,7 +49,7 @@ const handleSubmit= (e)=>{
                       <img src= {Email} alt="" className='c-icon'/> poojari.sudha@gmail.com
                   </div>
                   <div className="c-info-item">
-                      <img src= {Linkedin} alt="" className='c-icon'/> <a target="_blank" href="https://www.linkedin.com/in/sudha-madhuri"> Sudha Madhuri </a> 
+                      <img src= {Linkedin} alt="" className='c-icon'/> <a target="_blank" href="https://www.linkedin.com/in/sudha-madhuri-poojari/"> Sudha Madhuri </a> 
                   </div>
                   <div className="c-info-item">
                       <img src= {Address} alt="" className='c-icon'/> Solna, Stockholm
